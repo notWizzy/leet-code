@@ -1,8 +1,5 @@
 import java.util.List;
 
-/**
- * LeetCode
- */
 public class LeetCode {
     public static void main(String[] args) {
         System.exit(0);
