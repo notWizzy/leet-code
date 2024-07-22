@@ -1,6 +1,5 @@
 import java.util.List;
 
-// MAC TEST 2
 public class LeetCode {
     public static void main(String[] args) {
         System.exit(0);
