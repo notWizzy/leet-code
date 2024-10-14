@@ -96,8 +96,3 @@ public class LeetCode {
         return counter / 2;
     }
 }
-
-
-
-
-// JUST A CHECK
